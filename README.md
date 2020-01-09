@@ -6,4 +6,4 @@ Made by ***Abhisek Ganguly ©***
 
 hosted on **github** for free public use with ❤
 
-Registered under **MIT license** for *free* and *fair* public use for *non commercial* and *Educational* purpose.
+Registered under **MIT license** for *free* and *fair* public use for *commercial* and *Educational* purpose.
